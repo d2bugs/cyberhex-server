@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohamedsamara/mern-ecommerce.git"
+    "url": "git+https://github.com/saleh-touil/cyberhex2.git"
   },
   "keywords": [
     "node",
@@ -28,12 +28,12 @@
     "redux-thunk",
     "webpack"
   ],
-  "author": "Mohamed Samara (https://github.com/mohamedsamara)",
+  "author": "Saleh touil (https://github.com/saleh-touil)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mohamedsamara/mern-ecommerce/issues"
+    "url": "https://github.com/saleh-touil/cyberhex2/issues"
   },
-  "homepage": "https://github.com/mohamedsamara/mern-ecommerce#readme",
+  "homepage": "https://github.com/saleh-touil/cyberhex2#readme",
   "dependencies": {
     "autosuggest-highlight": "^3.1.1",
     "aws-sdk": "^2.799.0",
