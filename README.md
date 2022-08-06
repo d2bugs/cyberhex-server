@@ -1,4 +1,4 @@
-# CYBERHEX
+# MERN Ecommerce
 
 ## Description
 
